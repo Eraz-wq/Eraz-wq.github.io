@@ -21,7 +21,7 @@ Hello. My name is Erasmo Alcazar, and I am currently a student at [Cal State Ful
     }
     ```
 
-    ![Test](./home/erasmo/Eraz-wq.github.io/render1733981402984.gif)
+    ![Test](/home/erasmo/Eraz-wq.github.io/render1733981402984.gif)
 
 #### Computer Science Projects
 Github page link: [https://github.com/Eraz-wq](https://github.com/Eraz-wq)
