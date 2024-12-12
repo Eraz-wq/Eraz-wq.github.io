@@ -40,5 +40,9 @@ Hello. My name is Erasmo Alcazar, and I am currently a student at [Cal State Ful
     }
     ```
 
+* Lab 9 
+
+    In addition a lab that I liked was lab 9, part 1 which was a spell checker program. in the program we scanned a "document file" and looked for any word that had been mispelled. It uses the directory file to make sure which words are spelled correctly and incorrectley. The program keeps count of how many misplelled words were in the document file.
+
 #### Computer Science Projects
 Github page link: [https://github.com/Eraz-wq](https://github.com/Eraz-wq)
