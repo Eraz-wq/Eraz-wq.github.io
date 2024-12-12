@@ -21,7 +21,24 @@ Hello. My name is Erasmo Alcazar, and I am currently a student at [Cal State Ful
     }
     ```
 
-    ![lasst](render1733981402984.gif)
+    ![last](render1733981402984.gif)
+
+* Lab 12 
+
+    Another lab that I found enjoyable was lab 12, Part 1. In Part 1 the objective was to create an animation by passing 10 images frame by frame in a loop to make it look as if it was in perpetual motion. In Part 1 ainimated_gradient_functions.cc we made a function called HasMatchingFileExtension() which identifies if they have the matching file extension.
+
+    visual representaion:
+    ```C++
+    bool HasMatchingFileExtension(const std::string& file_name,
+                                  const std::string& extension) {
+      if (file_name.size() > extension.size() &&
+          (file_name.compare(file_name.size() - extension.size(), extension.size(),
+                            extension) == 0)) {
+        return true;
+      }
+      return false;
+    }
+    ```
 
 #### Computer Science Projects
 Github page link: [https://github.com/Eraz-wq](https://github.com/Eraz-wq)
