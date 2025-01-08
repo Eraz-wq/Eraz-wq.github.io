@@ -1,4 +1,4 @@
-# std::cout << "Hello, World"
+# std::cout << "Hello, World";
 
 Hello. My name is Erasmo Alcazar, and I am currently a student at [Cal State Fullerton](http://www.fullerton.edu/). My major is Computer Science.
 
